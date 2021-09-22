@@ -1,0 +1,12 @@
+.info-wrapper {
+  text-align: center;
+}
+
+.info-wrapper__title {
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.info-wrapper__data {
+  margin-bottom: 20px;
+}
