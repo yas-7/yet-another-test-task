@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/exchange-rates/static/css/main.4380f2ca.chunk.css",
+    "main.js": "/exchange-rates/static/js/main.90da1755.chunk.js",
+    "main.js.map": "/exchange-rates/static/js/main.90da1755.chunk.js.map",
+    "runtime-main.js": "/exchange-rates/static/js/runtime-main.03c0d17d.js",
+    "runtime-main.js.map": "/exchange-rates/static/js/runtime-main.03c0d17d.js.map",
+    "static/js/2.dcbf8720.chunk.js": "/exchange-rates/static/js/2.dcbf8720.chunk.js",
+    "static/js/2.dcbf8720.chunk.js.map": "/exchange-rates/static/js/2.dcbf8720.chunk.js.map",
+    "static/js/3.e322d927.chunk.js": "/exchange-rates/static/js/3.e322d927.chunk.js",
+    "static/js/3.e322d927.chunk.js.map": "/exchange-rates/static/js/3.e322d927.chunk.js.map",
+    "index.html": "/exchange-rates/index.html",
+    "static/css/main.4380f2ca.chunk.css.map": "/exchange-rates/static/css/main.4380f2ca.chunk.css.map",
+    "static/js/2.dcbf8720.chunk.js.LICENSE.txt": "/exchange-rates/static/js/2.dcbf8720.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03c0d17d.js",
+    "static/js/2.dcbf8720.chunk.js",
+    "static/css/main.4380f2ca.chunk.css",
+    "static/js/main.90da1755.chunk.js"
+  ]
+}
