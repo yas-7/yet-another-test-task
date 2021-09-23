@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/exchange-rates/static/css/main.4380f2ca.chunk.css",
-    "main.js": "/exchange-rates/static/js/main.90da1755.chunk.js",
-    "main.js.map": "/exchange-rates/static/js/main.90da1755.chunk.js.map",
-    "runtime-main.js": "/exchange-rates/static/js/runtime-main.03c0d17d.js",
-    "runtime-main.js.map": "/exchange-rates/static/js/runtime-main.03c0d17d.js.map",
-    "static/js/2.dcbf8720.chunk.js": "/exchange-rates/static/js/2.dcbf8720.chunk.js",
-    "static/js/2.dcbf8720.chunk.js.map": "/exchange-rates/static/js/2.dcbf8720.chunk.js.map",
-    "static/js/3.e322d927.chunk.js": "/exchange-rates/static/js/3.e322d927.chunk.js",
-    "static/js/3.e322d927.chunk.js.map": "/exchange-rates/static/js/3.e322d927.chunk.js.map",
-    "index.html": "/exchange-rates/index.html",
-    "static/css/main.4380f2ca.chunk.css.map": "/exchange-rates/static/css/main.4380f2ca.chunk.css.map",
-    "static/js/2.dcbf8720.chunk.js.LICENSE.txt": "/exchange-rates/static/js/2.dcbf8720.chunk.js.LICENSE.txt"
+    "main.css": "/yet-another-test-task/static/css/main.4380f2ca.chunk.css",
+    "main.js": "/yet-another-test-task/static/js/main.b2bc426c.chunk.js",
+    "main.js.map": "/yet-another-test-task/static/js/main.b2bc426c.chunk.js.map",
+    "runtime-main.js": "/yet-another-test-task/static/js/runtime-main.07b0c3ee.js",
+    "runtime-main.js.map": "/yet-another-test-task/static/js/runtime-main.07b0c3ee.js.map",
+    "static/js/2.dd180aaa.chunk.js": "/yet-another-test-task/static/js/2.dd180aaa.chunk.js",
+    "static/js/2.dd180aaa.chunk.js.map": "/yet-another-test-task/static/js/2.dd180aaa.chunk.js.map",
+    "static/js/3.49c92ab0.chunk.js": "/yet-another-test-task/static/js/3.49c92ab0.chunk.js",
+    "static/js/3.49c92ab0.chunk.js.map": "/yet-another-test-task/static/js/3.49c92ab0.chunk.js.map",
+    "index.html": "/yet-another-test-task/index.html",
+    "static/css/main.4380f2ca.chunk.css.map": "/yet-another-test-task/static/css/main.4380f2ca.chunk.css.map",
+    "static/js/2.dd180aaa.chunk.js.LICENSE.txt": "/yet-another-test-task/static/js/2.dd180aaa.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.03c0d17d.js",
-    "static/js/2.dcbf8720.chunk.js",
+    "static/js/runtime-main.07b0c3ee.js",
+    "static/js/2.dd180aaa.chunk.js",
     "static/css/main.4380f2ca.chunk.css",
-    "static/js/main.90da1755.chunk.js"
+    "static/js/main.b2bc426c.chunk.js"
   ]
 }
